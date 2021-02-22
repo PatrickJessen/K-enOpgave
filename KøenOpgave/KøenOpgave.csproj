@@ -49,7 +49,6 @@
     <Compile Include="FindUser.cs" />
     <Compile Include="Guest.cs" />
     <Compile Include="Gui.cs" />
-    <Compile Include="MenuHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
